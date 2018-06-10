@@ -34,6 +34,7 @@ namespace ConsoleApp2
             test2.a = 5;
             Console.WriteLine(test1);
             Console.WriteLine(test2);
+            Console.WriteLine("Good Bye!");
         }
     }
 }
